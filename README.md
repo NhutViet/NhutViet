@@ -10,7 +10,7 @@
 
 **Backend:**  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,docker" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nextjs,mongodb,firebase,docker" />
 </p>
 
 **Tools & IDEs:**  
