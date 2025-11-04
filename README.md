@@ -15,5 +15,5 @@
 
 **Tools & IDEs:**  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,androidstudio,xcode" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,androidstudio" />
 </p>
